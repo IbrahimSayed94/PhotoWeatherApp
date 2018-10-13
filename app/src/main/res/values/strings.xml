@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Photo Weather App</string>
+    <string name="weathermap_app_id">70c3579badc374b43724eb24d1155a95</string>
+
+    <!-- Home Activity -->
+
+    <string name="home">Home</string>
+    <string name="addphoto">Add photo</string>
+    <string name="photoshistory">Photos History</string>
+
+    <!-- Add Photo Activity -->
+    <string name="allowlocationpermission">you must allow to get current weather</string>
+    <string name="connectionerror">Connection error</string>
+    <string name="sharephoto">Share photo</string>
+    <string name="takephotofirst">Please take the photo first</string>
+
+    <!-- Photos History -->
+
+    <string name="nophotosfound">No photos found in history</string>
+
+</resources>
